@@ -1,21 +1,15 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Dual"
+name = "Duality"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
-tags = []
+licenselink = "https://github.com/gregtzar/hugo-theme-duality/blob/master/LICENSE"
+description = "A responsive theme with beautiful typography and light/dark mode utilizing tailwindCSS."
+homepage = "https://github.com/gregtzar/hugo-theme-duality"
+tags = ["Blog", "Responsive", "Minimal", "Clean", "Dark", "Light", "Typography", "Tailwind"]
 features = []
 min_version = "0.41"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Greg Tzar"
+  homepage = "https://gregtzar.com"
